@@ -1,9 +1,0 @@
-Package: plotFuncs
-Title: Plotting Functions
-Version: 0.0.0.9000
-Authors@R: person("Cove", "Sturtevant", email = "cove.sturtevant@gmail.com", role = c("aut", "cre"))
-Description: This package contains plotting functions.
-Depends: R (>= 3.2.1)
-Imports: ggplot2
-License: GNU General Public License, Version 3
-LazyData: true
